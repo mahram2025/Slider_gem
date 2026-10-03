@@ -1,0 +1,8 @@
+{
+  "name": "Product Carousel Pro",
+  "description": "Interactive product slider and carousel showcase with deep styling controls, responsive breakpoints, dynamic pagination, and Elementor configuration.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
